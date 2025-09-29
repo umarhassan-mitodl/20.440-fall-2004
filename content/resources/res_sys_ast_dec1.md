@@ -4,6 +4,8 @@ description: Lecture presentation.
 file: /courses/20-440-analysis-of-biological-networks-be-440-fall-2004/8e07c85495ed3140edc573b3d3791cd7_res_sys_ast_dec1.pdf
 file_size: 1726516
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

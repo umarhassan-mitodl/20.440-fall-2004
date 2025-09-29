@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides bibliographic citations for course readings, organized
   by session and topic.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -209,7 +211,7 @@ Analysis of the Interferon Network
 
 Chen, Xiaomin, et al. "Crystal Structure of a Tyrosine Phosphorylated STAT-1 Dimer Bound to DNA." _Cell_ 93 (May 29, 1998): 827-839.
 
-Look at this {{% resource_link "9cc34966-b6e7-427d-8055-0c43e4201f62" "Web page" %}} for a good introduction.
+Look at this [Web page](http://www-biology.ucsd.edu/labs/david/DAVID-LAB%20Research.html) for a good introduction.
 
 
 {{< tdclose >}}
@@ -301,7 +303,7 @@ Chemotaxis III - Proton Pumps
 
 Berg, Howard C. "The Rotary Motor of Bacterial Flagella." _Annual Review of Biochemistry_ 72 (2003): 19-54.
 
-Also please look at this {{% resource_link "4c3bc1b7-6174-4fad-af4c-b9a82fe81b46" "Web site" %}}. There is a terrific animation on assembly of the rotary flagellar motor.
+Also please look at this [Web site](http://www.fbs.osaka-u.ac.jp/labs/namba/npn/index.html). There is a terrific animation on assembly of the rotary flagellar motor.
 
 
 {{< tdclose >}}
