@@ -5,8 +5,6 @@ description: Lecture presentation on writing a grant application and other matte
 file: /courses/20-440-analysis-of-biological-networks-be-440-fall-2004/cfb105c7969ddc805d1ba2f3fd83e111_grant_appl_ram.pdf
 file_size: 130336
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

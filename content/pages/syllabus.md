@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on the aims of the course, meeting times, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -24,7 +22,7 @@ There are two examinations during the course, which have the goal of preparing 
 
 Readings are in the form of primary scientific papers, reviews, and selected chapters from texts.
 
-The proposal is written in the [NSF format](http://www.nsf.gov/pubs/2004/nsf042/start.htm) or in that used by investigators applying for a grant from the National Institutes of Health.
+The proposal is written in the {{% resource_link "d4778ce6-8ea6-48bf-8547-2d8d8b29298c" "NSF format" %}} or in that used by investigators applying for a grant from the National Institutes of Health.
 
 Course Description
 ------------------
